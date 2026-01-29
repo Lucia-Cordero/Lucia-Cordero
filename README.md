@@ -2,7 +2,6 @@
 
 ### Scientist by training. Data scientist by practice. Still allergic to unfounded conclusions.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lucia-Cordero" alt="Lucia-Cordero" /></a> </p>
 
 - 🔭 I'm currently working on **A CNN-based model to predict success of stem cell differentiation **
 
