@@ -3,7 +3,7 @@
 ### Scientist by training. Data scientist by practice. Still allergic to unfounded conclusions.
 
 
-- 🔭 I'm currently working on **A CNN-based model to predict success of stem cell differentiation **
+- 🔭 I'm currently working on **A CNN-based model to predict success of stem cell differentiation**
 
 - 🌱 I'm currently learning **A/B testing, Data Warehousing**
 
