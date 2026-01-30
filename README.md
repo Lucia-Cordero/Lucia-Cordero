@@ -1,6 +1,8 @@
-# Hi 👋, I'm Lucia Cordero Espinoza
+[![SVG Banners](https://svg-banners.vercel.app/api?type=textBox&text1=Lucía%20Cordero%20🤖&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
 
-### Scientist by training. Data scientist by practice. Still allergic to unfounded conclusions.
+# Hi there! 👋
+
+### From wet labs to data pipelines. The hypotheses survived.
 
 
 - 🔭 I'm currently working on **A CNN-based model to predict success of stem cell differentiation**
